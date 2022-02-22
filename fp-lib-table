@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "proto-pcb-footprints")(type "KiCad")(uri "${KIPRJMOD}/proto-pcb-footprints.pretty")(options "")(descr ""))
+)
