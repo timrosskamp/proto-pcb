@@ -28,6 +28,10 @@ fp-info-cache
 *.xml
 *.csv
 
+# gerber files
+gerber/
+gerber.zip
+
 
 .DS_Store
 .AppleDouble
